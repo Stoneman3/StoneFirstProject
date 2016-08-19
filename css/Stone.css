@@ -1,0 +1,15 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+#Header {
+  color: blue;
+  font-style: italic;
+}
+
+.C1 {
+
+  color: green;
+  font-weight: bold;
+}
